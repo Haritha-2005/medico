@@ -1,0 +1,71 @@
+Medicine,Med Code,Season,Month,Quantity,Sickness
+Paracetamol,MED001,Winter,January,450,Flu
+Paracetamol,MED001,Winter,February,420,Flu
+Paracetamol,MED001,Spring,March,300,Common Cold
+Paracetamol,MED001,Spring,April,280,Common Cold
+Paracetamol,MED001,Summer,May,250,Common Cold
+Paracetamol,MED001,Summer,June,240,Common Cold
+Paracetamol,MED001,Summer,July,230,Common Cold
+Paracetamol,MED001,Summer,August,240,Common Cold
+Paracetamol,MED001,Autumn,September,310,Flu
+Paracetamol,MED001,Autumn,October,380,Flu
+Paracetamol,MED001,Autumn,November,410,Flu
+Paracetamol,MED001,Winter,December,460,Flu
+Amoxicillin,MED002,Winter,January,320,Bacterial Infection
+Amoxicillin,MED002,Winter,February,310,Bacterial Infection
+Amoxicillin,MED002,Spring,March,290,Bacterial Infection
+Amoxicillin,MED002,Spring,April,270,Bacterial Infection
+Amoxicillin,MED002,Summer,May,220,Bacterial Infection
+Amoxicillin,MED002,Summer,June,210,Bacterial Infection
+Amoxicillin,MED002,Summer,July,205,Bacterial Infection
+Amoxicillin,MED002,Summer,August,215,Bacterial Infection
+Amoxicillin,MED002,Autumn,September,240,Bacterial Infection
+Amoxicillin,MED002,Autumn,October,280,Bacterial Infection
+Amoxicillin,MED002,Autumn,November,300,Bacterial Infection
+Amoxicillin,MED002,Winter,December,330,Bacterial Infection
+Ibuprofen,MED003,Winter,January,200,Pain Management
+Ibuprofen,MED003,Winter,February,190,Pain Management
+Ibuprofen,MED003,Spring,March,180,Pain Management
+Ibuprofen,MED003,Spring,April,170,Pain Management
+Ibuprofen,MED003,Summer,May,160,Pain Management
+Ibuprofen,MED003,Summer,June,155,Pain Management
+Ibuprofen,MED003,Summer,July,150,Pain Management
+Ibuprofen,MED003,Summer,August,155,Pain Management
+Ibuprofen,MED003,Autumn,September,165,Pain Management
+Ibuprofen,MED003,Autumn,October,185,Pain Management
+Ibuprofen,MED003,Autumn,November,195,Pain Management
+Ibuprofen,MED003,Winter,December,210,Pain Management
+Insulin,MED004,Winter,January,150,Diabetes
+Insulin,MED004,Winter,February,150,Diabetes
+Insulin,MED004,Spring,March,150,Diabetes
+Insulin,MED004,Spring,April,150,Diabetes
+Insulin,MED004,Summer,May,150,Diabetes
+Insulin,MED004,Summer,June,150,Diabetes
+Insulin,MED004,Summer,July,150,Diabetes
+Insulin,MED004,Summer,August,150,Diabetes
+Insulin,MED004,Autumn,September,150,Diabetes
+Insulin,MED004,Autumn,October,150,Diabetes
+Insulin,MED004,Autumn,November,150,Diabetes
+Insulin,MED004,Winter,December,150,Diabetes
+Cetirizine,MED005,Summer,May,400,Allergies
+Cetirizine,MED005,Summer,June,380,Allergies
+Cetirizine,MED005,Summer,July,350,Allergies
+Cetirizine,MED005,Summer,August,320,Allergies
+Cetirizine,MED005,Autumn,September,200,Allergies
+Cetirizine,MED005,Autumn,October,150,Allergies
+Cetirizine,MED005,Autumn,November,120,Allergies
+Cetirizine,MED005,Winter,December,100,Allergies
+Cetirizine,MED005,Winter,January,90,Allergies
+Cetirizine,MED005,Winter,February,110,Allergies
+Cetirizine,MED005,Spring,March,280,Allergies
+Cetirizine,MED005,Spring,April,350,Allergies
+Metformin,MED006,Winter,January,250,Diabetes
+Metformin,MED006,Summer,July,240,Diabetes
+Amlodipine,MED007,Winter,January,180,Hypertension
+Amlodipine,MED007,Summer,July,185,Hypertension
+Azithromycin,MED008,Winter,January,120,Bacterial Infection
+Azithromycin,MED008,Spring,April,110,Bacterial Infection
+Omeprazole,MED009,Winter,January,300,Gastritis
+Omeprazole,MED009,Summer,July,310,Gastritis
+Salbutamol,MED010,Autumn,October,200,Asthma
+Salbutamol,MED010,Spring,March,190,Asthma
